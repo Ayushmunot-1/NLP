@@ -1,0 +1,5 @@
+text,label,clean_text,no_stopwords,lemmatized_text,label_encoded
+I love machine learning!,positive,i love machine learning,love machine learning,love machine learning,1
+Natural Language Processing is amazing.,positive,natural language processing is amazing,natural language processing amazing,natural language processing amazing,1
+Deep learning models require large datasets.,neutral,deep learning models require large datasets,deep learning models require large datasets,deep learning model require large datasets,0
+AI is transforming the world.,positive,ai is transforming the world,ai transforming world,ai transforming world,1
